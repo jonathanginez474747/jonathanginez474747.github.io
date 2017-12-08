@@ -62,7 +62,7 @@ header ul li a { /* for links we need additional styling */
 	padding: 100px 0; 
 	background-size: cover;
 	background-color: #fff;
-	background-image: url("file:///Users/jigginez/Pictures/20161217/DSC_1028.JPG"); /* RH EDIT*/
+	background-image: url(“/images/DSC_1028.JPG“); /* RH EDIT*/
 
 }
 .about h1 {
